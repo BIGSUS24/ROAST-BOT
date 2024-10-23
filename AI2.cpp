@@ -9,7 +9,6 @@
 
 using json = nlohmann::json;
 
-// Replace with your actual bot token and channel ID
 const std::string BOT_TOKEN = "YOUR_BOT_TOKEN"; // Your bot token
 const std::string CHANNEL_ID = "YOUR_CHANNEL_ID"; // Your channel ID
 const std::string BOT_ID = "YOUR_BOT_ID"; // Your bot's user ID
